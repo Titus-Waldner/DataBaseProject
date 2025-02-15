@@ -53,12 +53,3 @@ To run this command:
 5. Wait up to 20 hours for the tables to be dropped, created, and populated.
 
 Print statements will be run in the terminal to ensure the script is still running throughout step 5.
-
-## Aviary Notes
-
-The project folder unzipped is roughly 3.6 GB in size. This may cause an issue on Aviary systems if there is a limitted amount of storage available on TA accounts. If this is an issue, the project is additionally available on Sahej's account on the Aviary system.
-
-Here are the details of this location:
-
-Machine: finch.cs.umanitoba.ca
-Filepath: data/student/gargs4
