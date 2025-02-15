@@ -2,14 +2,16 @@
 # Final Project - Steam Game Database
 
 This is the Final Project Submission for Group 1.
-This was made for COMP 3380 A01, Winter Term, 2024.
+This was made for DataBases.
 Members include:
 
-- Garizaldy Gerra | 7881885
-- Sahej Garg | 7873602
-- Titus Waldner | 7881218
+- Garizaldy Gerra
+- Sahej Garg
+- Titus Waldner
 
 This readme.md file contains information on the contents of the project folder, instructions on how to use the command-line interface, and how to delete and repopulate the database.
+
+Note: refresh.sql is not included due to size.
 
 ## Contents of Project Folder
 
